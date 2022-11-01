@@ -1,1 +1,1 @@
-# Edureka-Devops-Assignment
+# Sample-project
